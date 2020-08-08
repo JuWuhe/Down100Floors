@@ -16,6 +16,7 @@ public class AnimationBG : MonoBehaviour
 
     void Update()
     {
+        //使背景动起来
         movement += speed * Time.deltaTime;
         material.mainTextureOffset = movement;
     }
