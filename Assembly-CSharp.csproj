@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\AnimationBG.cs" />
     <Compile Include="Assets\Scripts\FanPlatform.cs" />
     <Compile Include="Assets\Scripts\Platform.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
