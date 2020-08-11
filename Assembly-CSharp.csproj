@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AnimationBG.cs" />
     <Compile Include="Assets\Scripts\FanPlatform.cs" />
+    <Compile Include="Assets\Scripts\LineRender.cs" />
     <Compile Include="Assets\Scripts\Platform.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="UnityEngine">
