@@ -172,11 +172,11 @@ HingeJoint2D:
   m_UseMotor: 0
   m_Motor:
     m_MotorSpeed: 0
-    m_MaximumMotorForce: 10000
+    m_MaximumMotorForce: 100
   m_UseLimits: 1
   m_AngleLimits:
-    m_LowerAngle: -60
-    m_UpperAngle: 60
+    m_LowerAngle: -45
+    m_UpperAngle: 45
 --- !u!114 &8331299434934296106
 MonoBehaviour:
   m_ObjectHideFlags: 0
